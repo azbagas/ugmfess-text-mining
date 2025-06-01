@@ -1,0 +1,18 @@
+[
+  {
+    "username": "your_username",
+    "password": "your_password",
+    "email": "your_email",
+    "email_password": "your_email_password",
+    "ct0": "your_ct0",
+    "auth_token": "your_auth_token"
+  },
+  {
+    "username": "another_username",
+    "password": "another_password",
+    "email": "another_email",
+    "email_password": "another_email_password",
+    "ct0": "another_ct0",
+    "auth_token": "another_auth_token"
+  }
+]
