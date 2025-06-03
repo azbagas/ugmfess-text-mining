@@ -1,0 +1,13 @@
+bertopic
+sastrawi
+nltk
+scikit-learn
+pandas
+tqdm
+wordcloud
+matplotlib
+umap-learn
+sentence-transformers
+hdbscan
+torch
+twscrape
